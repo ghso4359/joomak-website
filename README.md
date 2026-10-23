@@ -1,7 +1,7 @@
 
   # Restaurant Homepage
 
-  This is a code bundle for Restaurant Homepage. The original project is available at https://www.figma.com/design/a4KlRycZ5SJwbxXGAsqLFT/Restaurant-Homepage.
+  This is a code bundle for Restaurant Homepage. The original project is available at https://joomakchatswood.com.au/.
 
   ## Running the code
 
