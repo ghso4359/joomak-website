@@ -16,9 +16,10 @@ const RESTAURANT = {
   address: "Unit 7/18-26 Anderson St, Chatswood NSW 2067",
   phone: "(02) 8317 6996",
 
-  hours: {
-    EveryDay: "Mon – Sun 5:00 pm – 1:00 am",
-  },
+ hours: {
+  monSat: "MON – SAT · Lunch 11:00 am – 3:00 pm · Dinner 5:00 pm – 1:00 am",
+  sun: "SUN · Lunch 11:00 am – 3:00 pm · Dinner 5:00 pm – 12:00 am",
+},
 
   intro:
     "Joomak is a place to enjoy good Korean food, drinks, and late nights with friends. From comforting classics to dishes made for sharing, we want every visit to feel relaxed, welcoming, and full of good food.",
